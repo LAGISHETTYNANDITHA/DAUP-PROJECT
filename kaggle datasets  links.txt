@@ -1,0 +1,6 @@
+project 1:
+https://www.kaggle.com/datasets/mustafakeser4/earthquakes-2023-global
+project 2:
+https://www.kaggle.com/datasets/vinayakshanawad/meat-freshness-image-dataset
+project 3:
+https://www.kaggle.com/datasets/deepcontractor/musical-instrument-chord-classification
